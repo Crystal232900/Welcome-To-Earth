@@ -1,0 +1,6 @@
+c:\users\cryst\documents\visual studio 2015\Projects\WelcomeToEarth\WelcomeToEarth\bin\Debug\WelcomeToEarth.exe.config
+c:\users\cryst\documents\visual studio 2015\Projects\WelcomeToEarth\WelcomeToEarth\bin\Debug\WelcomeToEarth.exe
+c:\users\cryst\documents\visual studio 2015\Projects\WelcomeToEarth\WelcomeToEarth\bin\Debug\WelcomeToEarth.pdb
+c:\users\cryst\documents\visual studio 2015\Projects\WelcomeToEarth\WelcomeToEarth\obj\Debug\WelcomeToEarth.csprojResolveAssemblyReference.cache
+c:\users\cryst\documents\visual studio 2015\Projects\WelcomeToEarth\WelcomeToEarth\obj\Debug\WelcomeToEarth.exe
+c:\users\cryst\documents\visual studio 2015\Projects\WelcomeToEarth\WelcomeToEarth\obj\Debug\WelcomeToEarth.pdb
